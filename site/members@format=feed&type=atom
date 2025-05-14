@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru-ru">
+	<title type="text">Участники</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="https://practiceinfsec.cnii-jest.ru"/>
+	<id>https://practiceinfsec.cnii-jest.ru/members</id>
+	<updated>2025-05-14T18:50:57+00:00</updated>
+	<author>
+		<name>PracticeInfSec</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://practiceinfsec.cnii-jest.ru/members?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Кирилл М.</title>
+		<link rel="alternate" type="text/html" href="https://practiceinfsec.cnii-jest.ru/members/kirill"/>
+		<published>2025-04-16T00:27:15+00:00</published>
+		<updated>2025-04-16T00:27:15+00:00</updated>
+		<id>https://practiceinfsec.cnii-jest.ru/members/kirill</id>
+		<author>
+			<name>Admin</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;strong&gt;Системный администратор&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Основной специалист по переносу веб-сайтов на новый сервер&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Перенес большую часть веб-сайтов&lt;/li&gt;
+&lt;li&gt;Занимался развертыванием панели управления сайтами на новом сервере&lt;/li&gt;
+&lt;li&gt;Исправлял баги сайтов&lt;/li&gt;
+&lt;li&gt;Разворачивал LXC-контейнеры и виртуальные машины&lt;/li&gt;
+&lt;li&gt;Занимался миграциями БД&lt;/li&gt;
+&lt;/ul&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;strong&gt;Системный администратор&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Основной специалист по переносу веб-сайтов на новый сервер&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Перенес большую часть веб-сайтов&lt;/li&gt;
+&lt;li&gt;Занимался развертыванием панели управления сайтами на новом сервере&lt;/li&gt;
+&lt;li&gt;Исправлял баги сайтов&lt;/li&gt;
+&lt;li&gt;Разворачивал LXC-контейнеры и виртуальные машины&lt;/li&gt;
+&lt;li&gt;Занимался миграциями БД&lt;/li&gt;
+&lt;/ul&gt;</content>
+		<category term="Участники" />
+	</entry>
+	<entry>
+		<title>Матвей Г.</title>
+		<link rel="alternate" type="text/html" href="https://practiceinfsec.cnii-jest.ru/members/matvei"/>
+		<published>2025-04-16T00:26:53+00:00</published>
+		<updated>2025-04-16T00:26:53+00:00</updated>
+		<id>https://practiceinfsec.cnii-jest.ru/members/matvei</id>
+		<author>
+			<name>Admin</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;strong&gt;Главный системный администратор&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Отвечает за работу всей команды администраторов и за цифровую инфраструктуру проекта&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Осуществил перенос всех сервисов на новый сервер &lt;/li&gt;
+&lt;li&gt;Настроил сетевое оборудование проекта, разграничение доступа для системы управления сервером и доменные зоны проекта&lt;/li&gt;
+&lt;li&gt;Разрабатывает концепцию дальнейшего развития инфраструктуры проекта, в частности  создания кластера серверов с удалённым сетевым хранилищем&lt;/li&gt;
+&lt;li&gt;Взаимодействует с куратором проекта и тим-лидом, поддерживает их осведомлённость о состоянии инфраструктуры проекта и продвигает способы её совершенствования &lt;/li&gt;
+&lt;/ul&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;strong&gt;Главный системный администратор&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Отвечает за работу всей команды администраторов и за цифровую инфраструктуру проекта&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Осуществил перенос всех сервисов на новый сервер &lt;/li&gt;
+&lt;li&gt;Настроил сетевое оборудование проекта, разграничение доступа для системы управления сервером и доменные зоны проекта&lt;/li&gt;
+&lt;li&gt;Разрабатывает концепцию дальнейшего развития инфраструктуры проекта, в частности  создания кластера серверов с удалённым сетевым хранилищем&lt;/li&gt;
+&lt;li&gt;Взаимодействует с куратором проекта и тим-лидом, поддерживает их осведомлённость о состоянии инфраструктуры проекта и продвигает способы её совершенствования &lt;/li&gt;
+&lt;/ul&gt;</content>
+		<category term="Участники" />
+	</entry>
+</feed>

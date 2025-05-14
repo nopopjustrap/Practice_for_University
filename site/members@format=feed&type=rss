@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Участники</title>
+		<description><![CDATA[]]></description>
+		<link>https://practiceinfsec.cnii-jest.ru/members</link>
+		<lastBuildDate>Wed, 14 May 2025 18:50:56 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://practiceinfsec.cnii-jest.ru/members?format=feed&amp;type=rss"/>
+		<language>ru-ru</language>
+		<item>
+			<title>Кирилл М.</title>
+			<link>https://practiceinfsec.cnii-jest.ru/members/kirill</link>
+			<guid isPermaLink="true">https://practiceinfsec.cnii-jest.ru/members/kirill</guid>
+			<description><![CDATA[<p><strong>Системный администратор</strong></p>
+<p>Основной специалист по переносу веб-сайтов на новый сервер</p>
+<ul>
+<li>Перенес большую часть веб-сайтов</li>
+<li>Занимался развертыванием панели управления сайтами на новом сервере</li>
+<li>Исправлял баги сайтов</li>
+<li>Разворачивал LXC-контейнеры и виртуальные машины</li>
+<li>Занимался миграциями БД</li>
+</ul>]]></description>
+			<category>Участники</category>
+			<pubDate>Wed, 16 Apr 2025 00:27:15 +0000</pubDate>
+		</item>
+		<item>
+			<title>Матвей Г.</title>
+			<link>https://practiceinfsec.cnii-jest.ru/members/matvei</link>
+			<guid isPermaLink="true">https://practiceinfsec.cnii-jest.ru/members/matvei</guid>
+			<description><![CDATA[<p><strong>Главный системный администратор</strong></p>
+<p>Отвечает за работу всей команды администраторов и за цифровую инфраструктуру проекта</p>
+<ul>
+<li>Осуществил перенос всех сервисов на новый сервер </li>
+<li>Настроил сетевое оборудование проекта, разграничение доступа для системы управления сервером и доменные зоны проекта</li>
+<li>Разрабатывает концепцию дальнейшего развития инфраструктуры проекта, в частности  создания кластера серверов с удалённым сетевым хранилищем</li>
+<li>Взаимодействует с куратором проекта и тим-лидом, поддерживает их осведомлённость о состоянии инфраструктуры проекта и продвигает способы её совершенствования </li>
+</ul>]]></description>
+			<category>Участники</category>
+			<pubDate>Wed, 16 Apr 2025 00:26:53 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

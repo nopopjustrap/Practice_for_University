@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Журнал</title>
+		<description><![CDATA[]]></description>
+		<link>https://practiceinfsec.cnii-jest.ru/journal</link>
+		<lastBuildDate>Wed, 14 May 2025 18:51:00 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://practiceinfsec.cnii-jest.ru/journal?format=feed&amp;type=rss"/>
+		<language>ru-ru</language>
+		<item>
+			<title>4. Отчёт по практике</title>
+			<link>https://practiceinfsec.cnii-jest.ru/component/content/article/4-otchjot-po-praktike?catid=2</link>
+			<guid isPermaLink="true">https://practiceinfsec.cnii-jest.ru/component/content/article/4-otchjot-po-praktike?catid=2</guid>
+			<description><![CDATA[<div class="feed-description"><p class="MsoNormal"><span style="font-size: 10.0pt; line-height: 115%; font-family: 'Times New Roman',serif;"> <strong>Выполнено:</strong></span></p>
+<ul style="margin-top: 0cm;" type="disc">
+<li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list 36.0pt;"><span style="font-size: 10.0pt; line-height: 115%; font-family: 'Times New Roman',serif;">Отчёт</span><span style="font-size: 10.0pt; line-height: 115%; font-family: 'Times New Roman',serif; mso-ansi-language: EN-US;"> </span><span style="font-size: 10.0pt; line-height: 115%; font-family: 'Times New Roman',serif;">составлен</span><span style="font-size: 10.0pt; line-height: 115%; font-family: 'Times New Roman',serif; mso-ansi-language: EN-US;"> </span><span style="font-size: 10.0pt; line-height: 115%; font-family: 'Times New Roman',serif;">по</span><span style="font-size: 10.0pt; line-height: 115%; font-family: 'Times New Roman',serif; mso-ansi-language: EN-US;"> </span><span style="font-size: 10.0pt; line-height: 115%; font-family: 'Times New Roman',serif;">шаблону</span></li>
+<li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list 36.0pt;"><span style="font-size: 10.0pt; line-height: 115%; font-family: 'Times New Roman',serif;">Размещён в папке reports под именами:</span></li>
+<ul style="margin-top: 0cm;" type="circle">
+<li class="MsoNormal" style="mso-list: l0 level2 lfo1; tab-stops: list 72.0pt;"><span style="font-size: 10.0pt; line-height: 115%; font-family: 'Times New Roman',serif;">Отчёт.docx (DOCX),</span></li>
+<li class="MsoNormal" style="mso-list: l0 level2 lfo1; tab-stops: list 72.0pt;"><span style="font-size: 10.0pt; line-height: 115%; font-family: 'Times New Roman',serif;">Отчёт.pdf (PDF).</span></li>
+</ul>
+</ul></div>]]></description>
+			<category>Избранный</category>
+			<category>Uncategorised</category>
+			<category>ROOT</category>
+			<pubDate>Thu, 17 Apr 2025 18:38:27 +0000</pubDate>
+		</item>
+		<item>
+			<title>3. Создание статического веб-сайта</title>
+			<link>https://practiceinfsec.cnii-jest.ru/component/content/article/3-sozdanie-staticheskogo-veb-sajta?catid=2</link>
+			<guid isPermaLink="true">https://practiceinfsec.cnii-jest.ru/component/content/article/3-sozdanie-staticheskogo-veb-sajta?catid=2</guid>
+			<description><![CDATA[<div class="feed-description"><p class="MsoNormal"><span style="font-size: 10.0pt; line-height: 115%; font-family: 'Segoe UI Emoji',sans-serif; mso-bidi-font-family: 'Segoe UI Emoji';">✅</span><span style="font-size: 10.0pt; line-height: 115%; font-family: 'Times New Roman',serif;"> <strong>Выполнено:</strong></span></p>
+<ul style="margin-top: 0cm;" type="disc">
+<li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list 36.0pt;"><span style="font-size: 10.0pt; line-height: 115%; font-family: 'Times New Roman',serif;">Выбран инструмент: </span><strong><span lang="EN-US" style="font-size: 10.0pt; line-height: 115%; font-family: 'Times New Roman',serif; mso-ansi-language: EN-US;">Joomla</span></strong><span style="font-size: 10.0pt; line-height: 115%; font-family: 'Times New Roman',serif;"> (генератор статических сайтов).</span></li>
+<li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list 36.0pt;"><span style="font-size: 10.0pt; line-height: 115%; font-family: 'Times New Roman',serif;">Создан новый сайт по тематике проекта.</span></li>
+<li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list 36.0pt;"><span style="font-size: 10.0pt; line-height: 115%; font-family: 'Times New Roman',serif;">Добавлены обязательные страницы:</span></li>
+<ul style="margin-top: 0cm;" type="circle">
+<li class="MsoNormal" style="mso-list: l0 level2 lfo1; tab-stops: list 72.0pt;"><strong><span style="font-size: 10.0pt; line-height: 115%; font-family: 'Times New Roman',serif;">Главная</span></strong><span style="font-size: 10.0pt; line-height: 115%; font-family: 'Times New Roman',serif;"> – аннотация проекта,</span></li>
+<li class="MsoNormal" style="mso-list: l0 level2 lfo1; tab-stops: list 72.0pt;"><strong><span style="font-size: 10.0pt; line-height: 115%; font-family: 'Times New Roman',serif;">О проекте</span></strong><span style="font-size: 10.0pt; line-height: 115%; font-family: 'Times New Roman',serif;"> – детальное описание целей и задач,</span></li>
+<li class="MsoNormal" style="mso-list: l0 level2 lfo1; tab-stops: list 72.0pt;"><strong><span style="font-size: 10.0pt; line-height: 115%; font-family: 'Times New Roman',serif;">Участники</span></strong><span style="font-size: 10.0pt; line-height: 115%; font-family: 'Times New Roman',serif;"> – вклад каждого члена команды,</span></li>
+<li class="MsoNormal" style="mso-list: l0 level2 lfo1; tab-stops: list 72.0pt;"><strong><span style="font-size: 10.0pt; line-height: 115%; font-family: 'Times New Roman',serif;">Журнал</span></strong><span style="font-size: 10.0pt; line-height: 115%; font-family: 'Times New Roman',serif;"> – 3+ записи о прогрессе,</span></li>
+<li class="MsoNormal" style="mso-list: l0 level2 lfo1; tab-stops: list 72.0pt;"><strong><span style="font-size: 10.0pt; line-height: 115%; font-family: 'Times New Roman',serif;">Ресурсы</span></strong><span style="font-size: 10.0pt; line-height: 115%; font-family: 'Times New Roman',serif;"> – полезные ссылки и материалы.</span></li>
+</ul>
+<li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list 36.0pt;"><span style="font-size: 10.0pt; line-height: 115%; font-family: 'Times New Roman',serif;">Использованы <strong>графические материалы</strong> (фото, схемы, иллюстрации).</span></li>
+</ul></div>]]></description>
+			<category>Избранный</category>
+			<category>Uncategorised</category>
+			<category>ROOT</category>
+			<pubDate>Wed, 16 Apr 2025 18:37:44 +0000</pubDate>
+		</item>
+		<item>
+			<title>2. Написание документов в Markdown</title>
+			<link>https://practiceinfsec.cnii-jest.ru/component/content/article/2-napisanie-dokumentov-v-markdown?catid=2</link>
+			<guid isPermaLink="true">https://practiceinfsec.cnii-jest.ru/component/content/article/2-napisanie-dokumentov-v-markdown?catid=2</guid>
+			<description><![CDATA[<div class="feed-description"><p class="MsoNormal"><span style="font-size: 10.0pt; line-height: 115%; font-family: 'Segoe UI Emoji',sans-serif; mso-bidi-font-family: 'Segoe UI Emoji';">✅</span><span style="font-size: 10.0pt; line-height: 115%; font-family: 'Times New Roman',serif;"> <strong>Выполнено:</strong></span></p>
+<ul style="margin-top: 0cm;" type="disc">
+<li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list 36.0pt;"><span style="font-size: 10.0pt; line-height: 115%; font-family: 'Times New Roman',serif;">Изучен синтаксис <strong>Markdown</strong> (заголовки, списки, ссылки, таблицы, изображения).</span></li>
+<li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list 36.0pt;"><span style="font-size: 10.0pt; line-height: 115%; font-family: 'Times New Roman',serif;">Подготовлены необходимые документы</span></li>
+</ul></div>]]></description>
+			<category>Избранный</category>
+			<category>Uncategorised</category>
+			<category>ROOT</category>
+			<pubDate>Tue, 15 Apr 2025 18:36:53 +0000</pubDate>
+		</item>
+		<item>
+			<title>1. Настройка Git и репозитория</title>
+			<link>https://practiceinfsec.cnii-jest.ru/component/content/article/journal?catid=11</link>
+			<guid isPermaLink="true">https://practiceinfsec.cnii-jest.ru/component/content/article/journal?catid=11</guid>
+			<description><![CDATA[<div class="feed-description"><ul style="margin-top: 0cm;" type="disc">
+<li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list 36.0pt;">
+<p class="MsoNormal"><span style="font-size: 10.0pt; line-height: 115%; font-family: 'Segoe UI Emoji',sans-serif; mso-bidi-font-family: 'Segoe UI Emoji';">✅</span><span style="font-size: 10.0pt; line-height: 115%; font-family: 'Times New Roman',serif;"> <strong>Выполнено:</strong></span></p>
+<ul style="margin-top: 0cm;" type="disc">
+<li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list 36.0pt;"><span style="font-size: 10.0pt; line-height: 115%; font-family: 'Times New Roman',serif;">Создан групповой репозиторий на <strong>GitHub</strong> на основе предоставленного шаблона.</span></li>
+<li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list 36.0pt;"><span style="font-size: 10.0pt; line-height: 115%; font-family: 'Times New Roman',serif;">Освоены базовые команды Git:</span></li>
+<ul style="margin-top: 0cm;" type="circle">
+<li class="MsoNormal" style="mso-list: l0 level2 lfo1; tab-stops: list 72.0pt;"><span style="font-size: 10.0pt; line-height: 115%; font-family: 'Times New Roman',serif;">git clone – клонирование репозитория,</span></li>
+<li class="MsoNormal" style="mso-list: l0 level2 lfo1; tab-stops: list 72.0pt;"><span style="font-size: 10.0pt; line-height: 115%; font-family: 'Times New Roman',serif;">git commit -m "сообщение" – фиксация изменений,</span></li>
+<li class="MsoNormal" style="mso-list: l0 level2 lfo1; tab-stops: list 72.0pt;"><span style="font-size: 10.0pt; line-height: 115%; font-family: 'Times New Roman',serif;">git push – отправка изменений на удалённый репозиторий,</span></li>
+<li class="MsoNormal" style="mso-list: l0 level2 lfo1; tab-stops: list 72.0pt;"><span style="font-size: 10.0pt; line-height: 115%; font-family: 'Times New Roman',serif;"><span style="font-size: 10.0pt; line-height: 115%; font-family: 'Times New Roman',serif; mso-fareast-font-family: Aptos; mso-fareast-theme-font: minor-latin; mso-ansi-language: RU; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">git branch и git checkout – работа с ветками</span></span></li>
+</ul>
+</ul>
+</li>
+</ul></div>]]></description>
+			<category>Избранный</category>
+			<category>Журнал</category>
+			<category>ROOT</category>
+			<pubDate>Tue, 15 Apr 2025 17:31:15 +0000</pubDate>
+		</item>
+	</channel>
+</rss>
