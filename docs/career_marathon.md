@@ -9,10 +9,10 @@
 ### Отчет
 
 **Фото с мастер-класса:**
-![фото с мастер-класса 1](docs/media/photo_1.jpeg)
-![фото с мастер-класса 2](docs/media/photo_2.jpeg)
-![фото с мастер-класса 3](docs/media/photo_3.jpeg)
-![фото с мастер-класса 4](docs/media/photo_4.jpeg)
+![фото с мастер-класса 1](media/photo_1.jpeg)
+![фото с мастер-класса 2](media/photo_2.jpeg)
+![фото с мастер-класса 3](media/photo_3.jpeg)
+![фото с мастер-класса 4](media/photo_4.jpeg)
 
 ___
 
